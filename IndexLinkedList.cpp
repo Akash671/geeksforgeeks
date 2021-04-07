@@ -19,7 +19,7 @@ struct node
         next = NULL;
     }
 };
- 
+//................
 struct node* push(struct node* head, int d)
 {
    
