@@ -1,3 +1,6 @@
+/* author : @akash kumar */
+
+
 // { Driver Code Starts
 #include <bits/stdc++.h> 
 using namespace std; 
